@@ -1,0 +1,13 @@
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+.snakemake/
+*.log
+
+010.fastqc/
+020.bam/
+030.vcf/
+040.vcf/
+100.final/
